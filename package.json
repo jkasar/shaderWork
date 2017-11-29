@@ -1,0 +1,22 @@
+{
+  "name": "glslhtml",
+  "version": "1.0.0",
+  "description": "exploration into shaders :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkasar/shaderWork.git"
+  },
+  "author": "postDisrupt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkasar/shaderWork/issues"
+  },
+  "homepage": "https://github.com/jkasar/shaderWork#readme",
+  "dependencies": {
+    "three": "^0.88.0"
+  }
+}
